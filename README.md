@@ -1,6 +1,6 @@
 # ⭐ **SolidServer - App💾**
 
-SolidServer - App est une application simple et intuitive développée avec **Node.js & Express ainsi que SolidServer**. Elle permet à l'utilisateur de **télécharger des fichiers**, de les visualiser directement après l'upload, et même de les supprimer après utilisation via une interface web élégante.
+SolidServer - App est une application simple et intuitive développée avec **Node.js & Express ainsi que SolidServer**. Elle permet à l'utilisateur de **télécharger des fichiers**, de les visualiser directement après l'upload.
 
 ---
 
@@ -19,7 +19,6 @@ SolidServer - App est une application simple et intuitive développée avec **No
 
 - ⭐ **Upload de fichiers** : Téléchargez vos fichiers rapidement grâce à une interface simple.  
 - ⭐ **Visualisation après upload** : Parcourez vos fichiers directement depuis l'interface après leur envoi.  
-- ⭐ **Suppression après visualisation** : Supprimez vos fichiers facilement après leur consultation.  
 - ⭐ **UI élégante et moderne** : Une expérience utilisateur épurée et intuitive grâce à un design moderne avec CSS.
 
 ---
