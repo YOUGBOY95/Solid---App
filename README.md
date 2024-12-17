@@ -24,26 +24,26 @@ SolidServer File Upload App est une application simple et intuitive développée
 
 ---
 
-## **🛠️Technologie**
+## **🛠️ Technologies**
 
 SolidServer File Upload App utilise des outils performants pour une application rapide et simple :
 
 ---
 
-## **Backend**
+### **Backend** :
 - [Node.js](https://nodejs.org/)  
 - [Express.js](https://expressjs.com/)  
 - [Multer](https://github.com/expressjs/multer) : Middleware pour la gestion de l'upload de fichiers.
 
 ---
 
-## ⚙️ **Installation**
+## **Installation**
 
 Pour configurer l'application en local, suivez ces étapes :
 
 ---
 
-### 📌 **Prérequis**
+### **Prérequis**
 
 Assurez-vous que Node.js est bien installé sur votre machine avec ces commandes :
 
@@ -51,14 +51,14 @@ Assurez-vous que Node.js est bien installé sur votre machine avec ces commandes
 node -v
 npm -v
  ```
-"" **🚀 1. Cloner le projet**
+## **🚀 1. Cloner le projet**
 Clonez le projet depuis GitHub :
 
  ```bash
 git clone https://github.com/ton-utilisateur/solidserver-upload-app.git
 cd solidserver-upload-app
  ```
-"" **🛠️ 2. Installer les dépendances**
+## **🛠️ 2. Installer les dépendances**
 Dans le répertoire principal du projet, exécutez :
 
  ```bash
@@ -67,7 +67,7 @@ npm install
 
 ---
 
-"" **⚙️ 3. Démarrer le serveur**
+## **⚙️ 3. Démarrer le serveur**
 Démarrez le serveur local avec cette commande :
 
  ```bash
@@ -77,7 +77,7 @@ Le serveur sera disponible sur : http://localhost:3000.
 
 ---
 
-"" **🚀 Usage**
+## **🚀 Usage**
 Une fois l'application lancée :
 
 Accédez à l'URL suivante :
