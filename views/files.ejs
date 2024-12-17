@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Solid - App </title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Fichiers Uploadés</h1>
+    <ul>
+      <% files.forEach(file => { %>
+        <li><a href="<%= file %>" target="_blank"><%= file.split('/').pop() %></a></li>
+      <% }); %>
+    </ul>
+    <br />
+    <a href="/">Retour à l'upload</a>
+  </div>
+</body>
+</html>

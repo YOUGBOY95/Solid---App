@@ -1,0 +1,105 @@
+/* Réinitialisation des marges et des paddings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Fond et styles de base */
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Conteneur principal */
+  .container {
+    background: white;
+    color: #333;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  /* Styles pour le titre */
+  h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  /* Styles pour le formulaire */
+  form {
+    margin-top: 20px;
+  }
+  
+  label {
+    font-size: 16px;
+    margin-bottom: 10px;
+    display: block;
+    color: #555;
+  }
+  
+  input[type="file"] {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    outline: none;
+    transition: 0.3s ease;
+  }
+  
+  input[type="file"]:hover {
+    border-color: #555;
+  }
+  
+  button {
+    background: #2575fc;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s ease;
+  }
+  
+  button:hover {
+    background: #6a11cb;
+    transform: scale(1.1);
+  }
+  
+  /* Texte d'état après l'upload */
+  .success-message {
+    margin-top: 20px;
+    font-size: 16px;
+    color: green;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 10px;
+  }
+  
+  li {
+    margin: 10px 0;
+    font-size: 16px;
+  }
+  
+  a {
+    color: #2575fc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
