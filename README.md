@@ -1,6 +1,6 @@
-# ⭐ **SolidServer File Upload App 💾**
+# ⭐ **SolidServer - App💾**
 
-SolidServer File Upload App est une application simple et intuitive développée avec **Node.js & Express**. Elle permet à l'utilisateur de **télécharger des fichiers**, de les visualiser directement après l'upload, et même de les supprimer après utilisation via une interface web élégante.
+SolidServer - App est une application simple et intuitive développée avec **Node.js & Express ainsi que SolidServer**. Elle permet à l'utilisateur de **télécharger des fichiers**, de les visualiser directement après l'upload, et même de les supprimer après utilisation via une interface web élégante.
 
 ---
 
@@ -128,7 +128,9 @@ git pull
 ## **📜Licence**
 SolidServer File Upload App est sous licence MIT. Consultez le fichier LICENSE pour plus d'informations.
 
-✨ Remerciements
+---
+
+# **✨Remerciements**
 Un grand merci aux créateurs des technologies utilisées dans ce projet : Node.js, Express.js, et Multer.
 Si vous avez des questions ou suggestions, n'hésitez pas à ouvrir une issue sur GitHub.
 🎉 Profitez de l'application, et merci de votre intérêt pour ce projet ! 🚀
