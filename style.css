@@ -102,4 +102,38 @@
   a:hover {
     text-decoration: underline;
   }
+
+
+  ul {
+    list-style: none;
+    padding: 10px;
+  }
+  
+  li {
+    margin: 10px 0;
+    font-size: 16px;
+  }
+  
+  a {
+    color: #2575fc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .delete-btn {
+    margin-left: 10px;
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .delete-btn:hover {
+    background-color: #c0392b;
+  }
   

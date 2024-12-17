@@ -1,0 +1,11 @@
+# Ignore le dossier views
+/views/
+
+# Ignore les répertoires temporaires
+uploads/
+
+# Ignore les fichiers de configuration ou log
+*.log
+node_modules/
+.DS_Store
+.env
