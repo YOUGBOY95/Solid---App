@@ -48,28 +48,34 @@ Assurez-vous que Node.js est bien installé sur votre machine avec ces commandes
 ```bash
 node -v
 npm -v
-🚀 1. Cloner le projet
+ ```
+"" **🚀 1. Cloner le projet**
 Clonez le projet depuis GitHub :
 
-bash
-Copier le code
+ ```bash
 git clone https://github.com/ton-utilisateur/solidserver-upload-app.git
 cd solidserver-upload-app
-🛠️ 2. Installer les dépendances
+ ```
+"" **🛠️ 2. Installer les dépendances**
 Dans le répertoire principal du projet, exécutez :
 
-bash
-Copier le code
+ ```bash
 npm install
-⚙️ 3. Démarrer le serveur
+ ```
+
+---
+
+"" **⚙️ 3. Démarrer le serveur**
 Démarrez le serveur local avec cette commande :
 
-bash
-Copier le code
+ ```bash
 node server.js
+ ```
 Le serveur sera disponible sur : http://localhost:3000.
 
-🚀 Usage
+---
+
+"" **🚀 Usage**
 Une fois l'application lancée :
 
 Accédez à l'URL suivante :
@@ -84,7 +90,9 @@ Après l'envoi réussi, les fichiers sont visibles avec leurs aperçus.
 Supprimez vos fichiers facilement après usage.
 Cliquez sur le bouton pour les supprimer depuis l'interface.
 
-🤝 Contributions
+---
+
+## **🤝 Contributions**
 Les contributions sont les bienvenues pour améliorer l'application ou ajouter de nouvelles fonctionnalités. Si vous souhaitez contribuer, suivez ces étapes :
 
 Forkez le dépôt GitHub.
@@ -92,38 +100,29 @@ Cliquez sur "Fork" dans le coin supérieur droit de la page GitHub.
 
 Créez une nouvelle branche avec la commande suivante :
 
-bash
 Copier le code
+```bash
 git checkout -b feature/nom-de-la-fonctionnalité
+```
 Ajoutez vos changements et vos commits avec :
 
-bash
-Copier le code
+```bash
 git add .
 git commit -m "Ajout de la nouvelle fonctionnalité"
+```
 Poussez vos changements sur votre fork avec :
 
-bash
-Copier le code
+```bash
 git push origin feature/nom-de-la-fonctionnalité
+```
 Créez une Pull Request vers le dépôt principal.
 
-📜 Licence
+---
+
+## **📜 Licence**
 SolidServer File Upload App est sous licence MIT. Consultez le fichier LICENSE pour plus d'informations.
 
 ✨ Remerciements
 Un grand merci aux créateurs des technologies utilisées dans ce projet : Node.js, Express.js, et Multer.
 Si vous avez des questions ou suggestions, n'hésitez pas à ouvrir une issue sur GitHub.
 🎉 Profitez de l'application, et merci de votre intérêt pour ce projet ! 🚀
-
-yaml
-Copier le code
-
----
-
-### 📌 **Instructions :**
-1. Copiez ce contenu dans un fichier nommé `README.md`.
-2. Ajoutez-le à votre dépôt GitHub.
-3. Ce format Markdown est compatible avec GitHub, GitLab et autres plateformes. 
-
-Si tu as besoin d'autres ajustements, dis-le-moi ! 😊
