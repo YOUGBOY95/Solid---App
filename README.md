@@ -56,8 +56,8 @@ npm -v
 Clonez le projet depuis GitHub :
 
  ```bash
-git clone https://github.com/ton-utilisateur/solidserver-upload-app.git
-cd solid-app
+git clone https://github.com/YOUGBOY95/Solid---App.git
+cd Solid---App
  ```
 ## **🛠️ 2. Installer les dépendances**
 Dans le répertoire principal du projet, exécutez :
@@ -120,6 +120,9 @@ git push origin feature/nom-de-la-fonctionnalité
 ```
 Créez une Pull Request vers le dépôt principal.
 
+```bash
+git pull 
+```
 ---
 
 ## **📜Licence**
