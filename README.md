@@ -32,7 +32,8 @@ SolidServer File Upload App utilise des outils performants pour une application 
 
 ### **Backend** :
 - [Node.js](https://nodejs.org/)  
-- [Express.js](https://expressjs.com/)  
+- [Express.js](https://expressjs.com/)
+- [Solid Project](https://solidproject.org/)
 - [Multer](https://github.com/expressjs/multer) : Middleware pour la gestion de l'upload de fichiers.
 
 ---
@@ -56,7 +57,7 @@ Clonez le projet depuis GitHub :
 
  ```bash
 git clone https://github.com/ton-utilisateur/solidserver-upload-app.git
-cd solidserver-upload-app
+cd solid-app
  ```
 ## **🛠️ 2. Installer les dépendances**
 Dans le répertoire principal du projet, exécutez :
