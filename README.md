@@ -37,7 +37,7 @@ SolidServer File Upload App utilise des outils performants pour une application 
 
 ---
 
-## **Installation**
+## **⚙Installation**
 
 Pour configurer l'application en local, suivez ces étapes :
 
@@ -77,7 +77,7 @@ Le serveur sera disponible sur : http://localhost:3000.
 
 ---
 
-## **🚀 Usage**
+## **🚀Usage**
 Une fois l'application lancée :
 
 Accédez à l'URL suivante :
@@ -94,7 +94,7 @@ Cliquez sur le bouton pour les supprimer depuis l'interface.
 
 ---
 
-## **🤝 Contributions**
+## **🤝Contributions**
 Les contributions sont les bienvenues pour améliorer l'application ou ajouter de nouvelles fonctionnalités. Si vous souhaitez contribuer, suivez ces étapes :
 
 Forkez le dépôt GitHub.
@@ -121,7 +121,7 @@ Créez une Pull Request vers le dépôt principal.
 
 ---
 
-## **📜 Licence**
+## **📜Licence**
 SolidServer File Upload App est sous licence MIT. Consultez le fichier LICENSE pour plus d'informations.
 
 ✨ Remerciements
