@@ -24,11 +24,13 @@ SolidServer File Upload App est une application simple et intuitive développée
 
 ---
 
-## 🛠️ **Technologies**
+## **🛠️Technologie**
 
 SolidServer File Upload App utilise des outils performants pour une application rapide et simple :
 
-### **Backend**  
+---
+
+## **Backend**
 - [Node.js](https://nodejs.org/)  
 - [Express.js](https://expressjs.com/)  
 - [Multer](https://github.com/expressjs/multer) : Middleware pour la gestion de l'upload de fichiers.
