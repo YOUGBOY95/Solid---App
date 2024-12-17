@@ -130,7 +130,7 @@ SolidServer File Upload App est sous licence MIT. Consultez le fichier LICENSE p
 
 ---
 
-# **✨Remerciements**
+## **✨Remerciements**
 Un grand merci aux créateurs des technologies utilisées dans ce projet : Node.js, Express.js, et Multer.
 Si vous avez des questions ou suggestions, n'hésitez pas à ouvrir une issue sur GitHub.
 🎉 Profitez de l'application, et merci de votre intérêt pour ce projet ! 🚀
